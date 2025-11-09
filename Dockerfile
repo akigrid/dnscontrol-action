@@ -1,7 +1,7 @@
 FROM alpine:3
 
 LABEL repository="https://github.com/is-a-dev/dnscontrol-action"
-LABEL maintainer="is-a.dev <admin@is-a.dev>"
+LABEL maintainer="akigrid <contact@akigrid.top>"
 
 LABEL "com.github.actions.name"="DNSControl Action"
 LABEL "com.github.actions.description"="Deploy your DNS configuration using DNSControl."
