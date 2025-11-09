@@ -1,1 +1,1 @@
-# is-a-dev/dnscontrol-action
+# akigrid/dnscontrol-action
